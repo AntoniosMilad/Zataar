@@ -1736,3 +1736,13 @@ justify-content: space-between;
   color: #000;
   font-style: italic;
 }
+
+
+.alert {
+  background-color: #ffc107; /* Yellow background color */
+  color: #333; /* Dark grey text color */
+  text-align: center; /* Center-align text */
+  padding: 10px; /* Add some padding */
+  margin-bottom: 0; /* Remove default bottom margin */
+  border: none; /* Remove border */
+}
